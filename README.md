@@ -1,3 +1,3 @@
-### Top Languages
+### 🗓️ My GitHub Streak
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IysI-99999955&layout=compact&theme=vue&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IysI-99999955&theme=gruvbox&hide_border=true&locale=ko)](https://git.io/streak-stats)
