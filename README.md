@@ -1,3 +1,10 @@
-### 🗓️ My GitHub Streak
+# 안녕하세요! 👋 IysI-99999955 입니다.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IysI-99999955&theme=gruvbox&hide_border=true&locale=ko)](https://git.io/streak-stats)
+저는 새로운 기술을 배우고 프로젝트에 적용하는 것을 즐기는 **AI Engineer**입니다.
+LLM 모델링과 RAG 프롬프트 구현에 관심이 많으며 검은 밤, 푸른 새벽을 GPU를 달구며 보내는 중입니다.
+
+---
+
+### 🎯 목표
+
+꾸준한 코드 리뷰와 오픈 소스 기여를 통해 더 나은 개발자가 되고 싶습니다.
