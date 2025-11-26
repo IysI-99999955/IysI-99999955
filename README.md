@@ -1,1 +1,3 @@
-[![IysI-99999955's GitHub stats](https://github-readme-stats.vercel.app/api?username=IysI-99999955&show_icons=true&theme=dracula&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IysI-99999955&layout=compact&theme=vue&locale=ko)](https://github.com/anuraghazra/github-readme-stats)
